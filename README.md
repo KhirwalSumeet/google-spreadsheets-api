@@ -88,3 +88,5 @@ Got to node_modules/request/lib/querystring.js and make changes in function Quer
 Add following code lines at beginning of function :
 
 request.proxy='<YOUR PROXY URL>';
+
+Note : I had included client_Secret.json. But for first time you have to download your own api key using step 1 in the following link : https://developers.google.com/sheets/api/quickstart/nodejs
