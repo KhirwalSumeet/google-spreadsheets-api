@@ -28,6 +28,7 @@ Sample Output :
 
 Sample Output in JSON(This is only a subset of rows from the above sample spreadsheet)
 
+```
 {
 	"dataType": {
 		"Student Name": "String",
@@ -67,7 +68,7 @@ Sample Output in JSON(This is only a subset of rows from the above sample spread
 		"Extracurricular Activity": "Debate"
 	}]
 }
-
+```
 ### Error Codes
 
 - 404 : Sheet not FOund
